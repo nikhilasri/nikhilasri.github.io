@@ -38,6 +38,7 @@ img {
   margin-left: 50px;
 }
  .photo {
+    margin-left: 50px; 
   position: relative;
   width: 50%;
   border-radius: 50%;
